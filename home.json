@@ -1,0 +1,45 @@
+{
+  "mejoresvinos": [
+    {
+      "titulo": "Altair",
+      "imagen": "https://d1av3r99ggsbkh.cloudfront.net/1448-thickbox_default/cabernet-sauvignon-icono-altair-vina-san-pedro.jpg"
+    },
+    {
+      "titulo": "Purple Angel",
+      "imagen": "https://d1av3r99ggsbkh.cloudfront.net/4110-thickbox_default/carmenere-icono-purple-angel-vina-montes.jpg"
+    },
+    {
+      "titulo": "Amplus",
+      "imagen": "https://d1av3r99ggsbkh.cloudfront.net/3375-thickbox_default/carignan-amplus-premium-vina-santa-ema.jpg"
+    },
+    {
+      "titulo": "Perez Cruz",
+      "imagen": "https://d1av3r99ggsbkh.cloudfront.net/1809-thickbox_default/carmenere-limited-edition-perez-cruz.jpg"
+    },
+    {
+      "titulo": "Floresta",
+      "imagen": "https://d1av3r99ggsbkh.cloudfront.net/3588-thickbox_default/chardonnay-floresta-premium-santa-rita.jpg"
+    },
+    {
+      "titulo": "Amayna",
+      "imagen": "https://d1av3r99ggsbkh.cloudfront.net/38-thickbox_default/syrah-vina-garces-silva-amayna-valle-de-san-antonio.jpg"
+    }
+  ],
+  "tiposvino": [
+    {
+      "nombre": "Vino Tinto",
+      "texto": "El vino tinto es un tipo de vino procedente mayormente de mostos de uvas tintas, con la elaboración pertinente para conseguir la difusión de la materia colorante que contienen los hollejos de la uva. En función del tiempo de envejecimiento que se realice en la barrica y en la botella, pueden obtenerse vinos jóvenes, crianzas, reservas o grandes reservas.",
+      "imagen": "https://raw.githubusercontent.com/SebaChuaqui/imagenes/main/Vino%20Tinto.jpg"
+    },
+    {
+      "nombre": "Vino Blanco",
+      "texto": "El vino blanco es una variedad de vino que puede oscilar entre las tonalidades amarillo pajizo, amarillo verdoso o amarillo oro. Se produce por la fermentación alcohólica de la pulpa no coloreada de uvas que pueden tener una piel de color blanco o negro, a fin de mantener un color amarillo transparente en el producto final. La amplia variedad de vinos blancos proviene de la gran cantidad de cepas y métodos de elaboración empleados, así como de la relación de azúcar residual.",
+      "imagen": "https://raw.githubusercontent.com/SebaChuaqui/imagenes/main/vino%20blanco.jpg"
+    },
+    {
+      "nombre": "Vino Rosado",
+      "texto": "El vino rosado es aquel que tiene algo del color típico del vino tinto, pero solo lo suficiente como para darle un color rosa, que puede ir del claro al fuerte casi violeta, según las uvas y las técnicas de producción usadas.",
+      "imagen": "https://raw.githubusercontent.com/SebaChuaqui/imagenes/main/Vino%20Rose.jpg"
+    }
+  ]
+}
